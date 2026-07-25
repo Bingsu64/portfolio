@@ -1,0 +1,65 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid ac66b955-0eb9-4809-90c2-adc74d28422c)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 45.72 38.1) (size 53.34 30.48) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 0906be45-0034-45f5-bc2d-aca4b93ce670)
+    (property "Sheetname" "5VREG" (at 45.72 37.3884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "5VREG.kicad.kicad_sch" (at 45.72 69.1646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "5VPSU_SCH"
+        (path "/ac66b955-0eb9-4809-90c2-adc74d28422c" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 44.45 90.17) (size 55.88 30.48) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 27fe2c0d-b8b2-49af-b938-9be7391385fc)
+    (property "Sheetname" "5VCON" (at 44.45 89.4584 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "5VCON.kicad_sch" (at 44.45 121.2346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "5VPSU_SCH"
+        (path "/ac66b955-0eb9-4809-90c2-adc74d28422c" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 133.35 90.17) (size 63.5 31.75) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6d72552c-48fb-4baa-b888-1aa09c4d8638)
+    (property "Sheetname" "5VTRAN" (at 133.35 89.4584 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "5VTRAN.kicad_sch" (at 133.35 122.5046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "5VPSU_SCH"
+        (path "/ac66b955-0eb9-4809-90c2-adc74d28422c" (page "4"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
