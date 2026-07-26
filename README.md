@@ -4,6 +4,7 @@ I have only included files and reports where I have 100% ownership and have at l
 
 
 ## Project HELVETIA - Recovery Electronics
+[a relative link](portfolio/HELVETIA_REC_PCB)
 This folder contains the PCB schematic and layout files for the auxiliary power-switching and PWM-generation board used in the recovery system of our hybrid sounding rocket for SACUP 2022 (where the team placed 2nd in the 30k ft category). Additionally, a test report has been included detailing our process to test and validate the system to assure reliability and system safety.
 
 
