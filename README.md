@@ -9,6 +9,6 @@ contains the PCB schematic and layout files for the auxiliary power-switching an
 
 
 ## Project ODYSSEY - Avionics
-[This folder ](Bingsu64/portfolio/ODY_5V_Board)
+[This folder ](https://github.com/Bingsu64/portfolio/tree/main/ODY_5V_Board)
 contains the PCB design files for the block and schematics documentation of a 5V power module for a modularized flight computer architecture of a Karman-Line, bi-liquid rocket system.
 Even though it was never manufactured due to premature project conclusion due to budget constraints, it had been peer-reviewed and improved drastically for legibility and documentation purposes.
