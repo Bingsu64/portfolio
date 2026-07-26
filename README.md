@@ -1,15 +1,11 @@
 # Portfolio
 This repository contains design files from student engineering projects at ARIS (Akademische Raumfahrt Initiative Schweiz).
 I have only included files and reports where I have 100% ownership and have at least been reviewed for manufacturing.
-
-
-
+\n
 
 ## Project HELVETIA - Recovery Electronics
 This folder contains the PCB schematic and layout files for the auxiliary power-switching and PWM-generation board used in the recovery system of our hybrid sounding rocket for SACUP 2022 (where the team placed 2nd in the 30k ft category). Additionally, a test report has been included detailing our process to test and validate the system to assure reliability and system safety.
-
-
-
+\n
 
 ## Project ODYSSEY - Avionics
 This folder contains the PCB design files for the block and schematics documentation of a 5V power module for a modularized flight computer architecture of a Karman-Line, bi-liquid rocket system.
