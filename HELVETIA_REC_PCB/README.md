@@ -23,6 +23,8 @@ PWM generation, and robust actuation hardware required for safe recovery executi
 
 ## System Integration & Flight Validation
 This auxiliary hardware was integrated directly into the rocket's recovery loop as a mission critical interface to manage physical deployment for both drogue and main parachute.
+![image](https://github.com/Bingsu64/portfolio/blob/main/HELVETIA_REC_PCB/Images/TeleMega_Data.png)
+
  - Beyond standard telemetry verification, our primary design and operational goal for the recovery team was simple: make a recovery system that just works
  - As the first team in ARIS history to successfully and safely land and recover our rocket, every testing procedure, safety checklist, and power-switching constraint was engineered around eliminating single-point failures
  - Flight data and test logs confirmed that the auxiliary power and actuation hardware executed deployment flawlessly under real flight conditions, securing 2nd place in the 30k ft category at SACUP 2022
