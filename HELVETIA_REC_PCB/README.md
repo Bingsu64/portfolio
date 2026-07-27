@@ -2,8 +2,9 @@
 Project HELVETIA's mission was to successfully build, launch and safely recover our rocket at the Spaceport America Cup 2022 (SACUP). 
 It was designed to reach an apogee of 30,000ft with a total impulse of 40,960Ns.
 
-![image](https://github.com/Bingsu64/portfolio/blob/main/HELVETIA_REC_PCB/Images/REC_Photoshoot.png)
-*Figure 1: Picture of the sub-bulkhead assembly of the recovery fairing*
+| ![image](https://github.com/Bingsu64/portfolio/blob/main/HELVETIA_REC_PCB/Images/REC_Photoshoot.png) |
+| :--: |
+| *Figure 1: Picture of the sub-bulkhead assembly of the recovery fairing* |
 
 ## Recovery System
 To briefly contextualize, here is an overview of the recovery system section:
