@@ -15,9 +15,9 @@ Project ODYSSEY was an ambitious flagship initiative at ARIS aimed at developing
 | *Figure 1: Block Diagram of the 5V Power Module* |
 
 ## Design Readiness
-Although the project concluded prematurely due to budget constraints and organizational restructuring, before physical manufacturing could take place.
-The schematic underwent a rigorous formal peer-review with senior ARIS team members and technical leads. Based on review feedback, the documentation and net-labeling were drastically improved for legibility, component footprint verification, and manufacturability.
+Although the project concluded prematurely due to budget constraints and organizational restructuring, before physical manufacturing could take place,
+the schematic underwent a rigorous formal peer-review with senior ARIS team members and technical leads. Based on review feedback, the documentation and net-labeling were drastically improved for legibility, component footprint verification, and manufacturability.
 
 ## Final Learnings
- - Upfront Design Rigor: Learned how to design power electronics strictly to specification and system requirements before physical hardware ever exists.
- - Design Reviews: Gained valuable experience defending schematic architecture, component choices, and safety margins during peer-review gates.
+ - Learned how to design power electronics strictly to specification and system requirements before physical hardware ever exists.
+ - Gained valuable experience defending schematic architecture, component choices, and safety margins during peer-review gates.
