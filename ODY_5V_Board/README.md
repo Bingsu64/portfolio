@@ -10,7 +10,7 @@ Project ODYSSEY was an ambitious flagship initiative at ARIS aimed at developing
  - My specific ownership focused on designing the 5V power module block, ensuring stable power delivery and low noise sensitivity
  - Further focus on reliability by implementing redundancy, monitoring, and diagnostics capabilities for fault handling
 
-| ![image]() |
+| ![image](https://github.com/Bingsu64/portfolio/blob/main/ODY_5V_Board/Images/5VPSU_Block.svg) |
 | :--: |
 | *Figure 1: Block Diagram of the 5V Power Module* |
 
