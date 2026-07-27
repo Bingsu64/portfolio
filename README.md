@@ -1,5 +1,5 @@
 # Portfolio
-This repository contains design files from student engineering projects at ARIS (Akademische Raumfahrt Initiative Schweiz).
+This repository contains design files from student engineering projects at [ARIS (Akademische Raumfahrt Initiative Schweiz)](https://aris-space.ch/).
 I have only included files and reports where I have 100% ownership and have at least been reviewed for manufacturing.
 
 
